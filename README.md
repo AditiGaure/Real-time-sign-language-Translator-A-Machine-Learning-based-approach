@@ -29,8 +29,7 @@ test_model_output.py          -> Script to test trained model predictions
 
 🔹 Note
 
-The trained model (.h5 file) is intentionally not uploaded to the repository
-to prevent misuse and to protect intellectual property.
+“Due to file size and ownership considerations, the trained model file (.h5) is not included. The complete architecture, preprocessing, and inference code are provided.”
 
 🔹 How to Run
 
