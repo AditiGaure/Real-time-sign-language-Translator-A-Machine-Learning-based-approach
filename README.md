@@ -41,3 +41,8 @@ test_model_output.py          -> Script to test trained model predictions
 🔹 Author
 
 Aditi Gaure
+
+
+🔹Disclaimer:
+
+This project and its source code are original work developed solely by the author. Any unauthorized copying, redistribution, reproduction, or use of this code or its implementation—in full or in part—is strictly prohibited without prior written permission.
