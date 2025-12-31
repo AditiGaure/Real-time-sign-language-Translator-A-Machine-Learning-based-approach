@@ -45,4 +45,5 @@ Aditi Gaure
 
 🔹Disclaimer:
 
-This project and its source code are original work developed solely by the author. Any unauthorized copying, redistribution, reproduction, or use of this code or its implementation—in full or in part—is strictly prohibited without prior written permission.
+This project and its source code are original work developed solely by the author.
+Unauthorized copying, redistribution, modification, or use of this code or its implementation—in full or in part—is strictly prohibited without explicit prior permission from the author.
