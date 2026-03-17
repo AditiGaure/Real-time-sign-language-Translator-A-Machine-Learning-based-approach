@@ -66,25 +66,35 @@ sign_language_polished_UI.py   -> Main real-time prediction script with UI
 
 test_model_output.py          -> Script to test trained model predictions
 
+ ▶️ How to Run
 
-🔹 How to Run
+1. Clone or download this repository to your local system.
 
-1. Clone the repository
-2. Install required dependencies
-3. Run sign_language_polished_UI.py
-4. Allow webcam access
+2. Install the required dependencies:
+  - pip install streamlit  
+  - pip install opencv-python  
+  - pip install tensorflow  
+  - pip install numpy  
+  - pip install mediapipe
+
+4. Navigate to the project folder:
+   cd Real-time-sign-language-Translator-A-Machine-Learning-based-approach
+
+5. Run the application using Streamlit:
+   streamlit run sign_language_polished_UI.py
+
+6. The application will automatically open in your browser.
+
+7. Click on "Start Camera" and allow webcam access.
+
+8. Perform hand gestures in front of the camera to see real-time predictions.
+
+> Make sure your webcam is properly connected and permissions are enabled.
 
     
 🔹 Note
 
 “Due to file size and ownership considerations, the trained model file (.h5) is not included. The complete architecture, preprocessing, and inference code are provided.”
-
-🔹 How to Run
-
-1. Clone the repository
-2. Install required dependencies
-3. Run sign_language_polished_UI.py
-4. Allow webcam access
 
 
 🔹 Author
