@@ -52,7 +52,7 @@ for speech- and hearing-impaired individuals by enabling seamless human–comput
 ![Prediction P]([screenshots/p.](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20171953.png))
 
 ### 🔹 Real-Time Prediction (Example 2)
-![Prediction Q](screenshots/q.png)
+![Prediction Q]([screenshots/q.](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20172049.png))
 
 ### 🔹 Real-Time Prediction (Example 3)
 ![Prediction Q](screenshots/q.png)
