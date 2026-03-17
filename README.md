@@ -12,6 +12,7 @@ for speech- and hearing-impaired individuals by enabling seamless human–comput
 - CNN-based deep learning model
 - Smooth and responsive UI for real-time usage
 - Designed for accessibility and assistive technology use cases
+- Real-time prediction with dynamic gesture updates
 
 🔹Model Details
 - Designed and trained a **1.6M-parameter CNN architecture**  
@@ -32,6 +33,7 @@ for speech- and hearing-impaired individuals by enabling seamless human–comput
 - NumPy
 - Streamlit 
 - Computer Vision
+- Streamlit (for web-based UI)
 
 
 #🎥 Demo Video
