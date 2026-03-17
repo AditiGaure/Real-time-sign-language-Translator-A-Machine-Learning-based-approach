@@ -46,15 +46,15 @@ for speech- and hearing-impaired individuals by enabling seamless human–comput
  #📸 Screenshots
 
 ### 🔹 User Interface
-![UI]([screenshots/ui](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20171902.png))
+![UI](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20171902.png)
 
 ### 🔹 Real-Time Prediction (Example 1)
-![Prediction P]([screenshots/P](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20171953.png))
+![Prediction P](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20171953.png)
 ### 🔹 Real-Time Prediction (Example 2)
-![Prediction Q]([screenshots/Q](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20172049.png))
+![Prediction Q](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20172049.png)
 
 ### 🔹 Real-Time Prediction (Example 3)
-![Prediction Q]([screenshots/R](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20172134.png))
+![Prediction Q](https://github.com/AditiGaure/Real-time-sign-language-Translator-A-Machine-Learning-based-approach/blob/main/screenshots/Screenshot%202026-03-17%20172134.png)
 
 
 
