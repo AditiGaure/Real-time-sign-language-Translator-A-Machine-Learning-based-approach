@@ -13,13 +13,46 @@ for speech- and hearing-impaired individuals by enabling seamless human–comput
 - Smooth and responsive UI for real-time usage
 - Designed for accessibility and assistive technology use cases
 
+🔹Model Details
+- Designed and trained a **1.6M-parameter CNN architecture**  
+- Supports **26-class American Sign Language (A–Z)** recognition  
+- Trained on **100K+ images** with proper train-test split  
+- Achieved **~99% validation accuracy** after incremental training  
+- Optimized for **real-time inference (<80ms per frame)**  
+- Implemented normalization (1/255 scaling) and dropout for generalization  
+
+> Note: Due to real-time inference constraints, the model may occasionally misclassify visually similar gestures, which is expected behavior in live computer vision systems.
+
+
 🔹 Technologies Used
 - Python
 - Machine Learning
 - Convolutional Neural Networks (CNN)
 - OpenCV
 - NumPy
+- Streamlit 
 - Computer Vision
+
+#🎥 Demo Video
+
+> 🎬 Click below to view the real-time working demo of the application  
+
+👉 [▶️ Watch Demo](https://drive.google.com/file/d/1-jT-8IImkSuowjeWHsAlo_YaR9IAIadJ/view?usp=drivesdk)
+
+
+
+ #📸 Screenshots
+
+### 🔹 User Interface
+![UI](screenshots/ui.png)
+
+### 🔹 Real-Time Prediction (Example 1)
+![Prediction P](screenshots/p.png)
+
+### 🔹 Real-Time Prediction (Example 2)
+![Prediction Q](screenshots/q.png)
+
+
 
 🔹 Project Structure
 
@@ -27,6 +60,15 @@ sign_language_polished_UI.py   -> Main real-time prediction script with UI
 
 test_model_output.py          -> Script to test trained model predictions
 
+
+🔹 How to Run
+
+1. Clone the repository
+2. Install required dependencies
+3. Run sign_language_polished_UI.py
+4. Allow webcam access
+
+    
 🔹 Note
 
 “Due to file size and ownership considerations, the trained model file (.h5) is not included. The complete architecture, preprocessing, and inference code are provided.”
@@ -38,6 +80,7 @@ test_model_output.py          -> Script to test trained model predictions
 3. Run sign_language_polished_UI.py
 4. Allow webcam access
 
+ ---
 🔹 Author
 
 Aditi Gaure
