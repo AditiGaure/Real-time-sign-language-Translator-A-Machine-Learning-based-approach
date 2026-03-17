@@ -90,7 +90,7 @@ test_model_output.py          -> Script to test trained model predictions
 3. Run sign_language_polished_UI.py
 4. Allow webcam access
 
- ---
+
 🔹 Author
 
 Aditi Gaure
